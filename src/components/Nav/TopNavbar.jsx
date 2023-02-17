@@ -28,9 +28,9 @@ export default function TopNavbar() {
         <NavInner className="container flexSpaceCenter">
           <Link className="pointer flexNullCenter" to="home" smooth={true}>
             <LogoIcon header={true}/>
-            <h1 style={{ marginLeft: "15px" }} className="font20 extraBold">
+            {/* <h1 style={{ marginLeft: "15px" }} className="font20 extraBold">
               Klean Klub
-            </h1>
+            </h1> */}
           </Link>
           <BurderWrapper className="pointer" onClick={() => toggleSidebar(!sidebarOpen)}>
             <BurgerIcon />
