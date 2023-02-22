@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 // Screens
 import Landing from "./screens/Landing.jsx";
 import Error404Page from "./screens/404page.jsx";
-import AdminPage from "./screens/AdminPage.jsx";
+import PrivacyPolicy from "./screens/PrivacyPolicy.jsx";
 
 export default function App() {
   return (
@@ -17,7 +17,7 @@ export default function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Landing />}/>
-          {/* <Route path="/admin-klean-klub-official" element={<AdminPage/>}/> */}
+          {/* <Route path="/privacypolicy" element={<PrivacyPolicy/>}/> */}
           <Route path="*" element={<Error404Page/>}/>
         </Routes>
       </BrowserRouter>
