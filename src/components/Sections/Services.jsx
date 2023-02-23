@@ -23,7 +23,7 @@ export default function Services() {
           <HeaderInfo>
             <h1 className="font40 extraBold">Our Awesome Services</h1>
             <p className="font13">
-              We currents have a few services available to you at your disposal with more to come soon
+              We currently have a few services available to you at your disposal with more to come soon
               <br />
               The services currently available are as seen below
             </p>
