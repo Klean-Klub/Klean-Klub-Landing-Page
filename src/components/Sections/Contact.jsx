@@ -20,7 +20,8 @@ export default function Contact() {
   const sendEmail = async (e) => {
     setLoading(true);
     e.preventDefault();
-    await emailjs.sendForm('service_u2wdnfd', 'template_ybor07o', form.current, '6nC0WBjqw3CITdW4p')
+    // await emailjs.sendForm('service_u2wdnfd', 'template_ybor07o', form.current, '6nC0WBjqw3CITdW4p')
+    await emailjs.sendForm('service_m39jp1y', 'template_j5twdvl', form.current, 'QBF53m--oOqn7oBhd')
     .then((result) => {
         // show the user a success message
         setMessage(success);

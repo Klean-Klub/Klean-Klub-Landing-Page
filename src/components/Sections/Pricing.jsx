@@ -79,7 +79,7 @@ export default function Pricing() {
             <br/>
             <h3>Your Choices and Rights</h3>
             <br/>
-            You can access, correct, or delete your personal information at any time by contacting us at <span style={{fontWeight:"700"}}>kleanklub.official@gmail.com</span>. You can also choose not to provide us with certain personal information, but this may limit your ability to use certain features of the App.
+            You can access, correct, or delete your personal information at any time by contacting us at <span style={{fontWeight:"700"}}>admin@kleanklub.org</span>. You can also choose not to provide us with certain personal information, but this may limit your ability to use certain features of the App.
 
             <br/>
             <br/>
@@ -93,7 +93,7 @@ export default function Pricing() {
             <br/>
             <h3>Contact Us</h3>
             <br/>
-            If you have any questions or concerns about our privacy policy, please contact us at <span style={{fontWeight:"700"}}>kleanklub.official@gmail.com</span>.
+            If you have any questions or concerns about our privacy policy, please contact us at <span style={{fontWeight:"700"}}>admin@kleanklub.org</span>.
 
 
             </p>

@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "Kleanklub",
+  "homepage": "https://kleanklub.org/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
