@@ -1,19 +1,19 @@
 {
-  "short_name": "Klean Klub",
-  "name": "Klean Klub",
+  "short_name": "Evofyx",
+  "name": "Evofyx",
   "icons": [
     {
-      "src": "kleanklubicon.png",
+      "src": "evofyx.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/png"
     },
     {
-      "src": "kleanklubicon.png",
+      "src": "evofyx.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "kleanklubicon.png",
+      "src": "evofyx.png",
       "type": "image/png",
       "sizes": "512x512"
     }

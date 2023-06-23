@@ -9,11 +9,11 @@ export default function Pricing() {
       <div className="whiteBg">
         <div className="container">
           <HeaderInfo>
-            <h1 className="font40 extraBold">Privacy Policy for Klean Klub Mobile App</h1>
+            <h1 className="font40 extraBold">Privacy Policy for Evofyx Mobile App</h1>
             <p className="font13">
             <h3>Introduction</h3>
             <br/>
-            Klean Klub (hereinafter referred to as "the App" or "we") is committed to protecting the privacy and security of your personal information. This privacy policy describes how we collect, use, and disclose your personal information when you use our mobile application.
+            Evofyx (hereinafter referred to as "the App" or "we") is committed to protecting the privacy and security of your personal information. This privacy policy describes how we collect, use, and disclose your personal information when you use our mobile application.
 
             <br/>
             <br/>
@@ -59,7 +59,7 @@ export default function Pricing() {
             Service Providers: We may share your personal information with third-party service providers who perform services on our behalf, such as processing payments, analyzing usage data, or providing customer support.
             <br/>  
             <br/>  
-            Klean Klub Agencies: We may share your personal information with agencies on klean klub to make it possible for them to render services for you.
+            Evofyx Agencies: We may share your personal information with agencies on Evofyx to make it possible for them to render services for you.
             <br/>  
             <br/>  
             Legal Requirements: We may disclose your personal information if we are required to do so by law, or if we believe that such disclosure is necessary to comply with legal obligations, protect our rights or interests, or prevent fraud or other illegal activity.
@@ -79,7 +79,7 @@ export default function Pricing() {
             <br/>
             <h3>Your Choices and Rights</h3>
             <br/>
-            You can access, correct, or delete your personal information at any time by contacting us at <span style={{fontWeight:"700"}}>admin@kleanklub.org</span>. You can also choose not to provide us with certain personal information, but this may limit your ability to use certain features of the App.
+            You can access, correct, or delete your personal information at any time by contacting us at <span style={{fontWeight:"700"}}>admin@evofyx.com</span>. You can also choose not to provide us with certain personal information, but this may limit your ability to use certain features of the App.
 
             <br/>
             <br/>
@@ -93,7 +93,7 @@ export default function Pricing() {
             <br/>
             <h3>Contact Us</h3>
             <br/>
-            If you have any questions or concerns about our privacy policy, please contact us at <span style={{fontWeight:"700"}}>admin@kleanklub.org</span>.
+            If you have any questions or concerns about our privacy policy, please contact us at <span style={{fontWeight:"700"}}>admin@evofyx.com</span>.
 
 
             </p>

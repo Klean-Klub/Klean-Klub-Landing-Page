@@ -20,7 +20,6 @@ export default function Contact() {
   const sendEmail = async (e) => {
     setLoading(true);
     e.preventDefault();
-    // await emailjs.sendForm('service_u2wdnfd', 'template_ybor07o', form.current, '6nC0WBjqw3CITdW4p')
     await emailjs.sendForm('service_m39jp1y', 'template_j5twdvl', form.current, 'QBF53m--oOqn7oBhd')
     .then((result) => {
         // show the user a success message
@@ -53,7 +52,7 @@ export default function Contact() {
           <HeaderInfo>
             <h1 className="font40 extraBold">Let's get in touch</h1>
             <p className="font13">
-              Wanna join the klean klub family as a laundry or a cleaner at no charge? Wanna get in touch with us?
+              Wanna join the Evofyx family as a laundry or a cleaner at no charge? Wanna get in touch with us?
               <br />
               Hit us up below!
             </p>
